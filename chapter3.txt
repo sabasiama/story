@@ -1,1 +1,2 @@
 Third story
+this is a new feature.
